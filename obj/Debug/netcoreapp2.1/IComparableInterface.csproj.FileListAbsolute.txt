@@ -1,0 +1,11 @@
+C:\Users\joao.alves\source\repos\IComparableInterface\IComparableInterface\obj\Debug\netcoreapp2.1\IComparableInterface.csprojAssemblyReference.cache
+C:\Users\joao.alves\source\repos\IComparableInterface\IComparableInterface\obj\Debug\netcoreapp2.1\IComparableInterface.csproj.CoreCompileInputs.cache
+C:\Users\joao.alves\source\repos\IComparableInterface\IComparableInterface\obj\Debug\netcoreapp2.1\IComparableInterface.AssemblyInfoInputs.cache
+C:\Users\joao.alves\source\repos\IComparableInterface\IComparableInterface\obj\Debug\netcoreapp2.1\IComparableInterface.AssemblyInfo.cs
+C:\Users\joao.alves\source\repos\IComparableInterface\IComparableInterface\bin\Debug\netcoreapp2.1\IComparableInterface.deps.json
+C:\Users\joao.alves\source\repos\IComparableInterface\IComparableInterface\bin\Debug\netcoreapp2.1\IComparableInterface.runtimeconfig.json
+C:\Users\joao.alves\source\repos\IComparableInterface\IComparableInterface\bin\Debug\netcoreapp2.1\IComparableInterface.runtimeconfig.dev.json
+C:\Users\joao.alves\source\repos\IComparableInterface\IComparableInterface\bin\Debug\netcoreapp2.1\IComparableInterface.dll
+C:\Users\joao.alves\source\repos\IComparableInterface\IComparableInterface\bin\Debug\netcoreapp2.1\IComparableInterface.pdb
+C:\Users\joao.alves\source\repos\IComparableInterface\IComparableInterface\obj\Debug\netcoreapp2.1\IComparableInterface.dll
+C:\Users\joao.alves\source\repos\IComparableInterface\IComparableInterface\obj\Debug\netcoreapp2.1\IComparableInterface.pdb
